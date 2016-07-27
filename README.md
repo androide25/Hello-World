@@ -1,1 +1,3 @@
 # Hello-World
+Hi Erick:
+Hubot here, I like Node.js and Coffeescriot...
